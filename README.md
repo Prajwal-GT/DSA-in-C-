@@ -9,6 +9,7 @@
 | [0231-power-of-two](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0342-power-of-four) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
 |  |
@@ -26,9 +27,11 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0342-power-of-four) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
