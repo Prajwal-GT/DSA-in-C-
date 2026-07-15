@@ -11,6 +11,7 @@
 | [0258-add-digits](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0342-power-of-four) |
+| [0877-stone-game](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Simulation
 |  |
@@ -24,6 +25,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0877-stone-game](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0877-stone-game) |
 | [0912-sort-an-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/1480-running-sum-of-1d-array) |
@@ -84,4 +86,12 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Prajwal-GT/DSA-in-C-/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
